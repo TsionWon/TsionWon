@@ -1,5 +1,6 @@
-   <h1> Hi, I’m @TsionWon  </h1>
-   <h2>I’m interested in Data Science and Machine Learning.</h2>
+   <h1> Hi, I’m Tsion Wondale  </h1>
+   
+- I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning AI mastering program at 10 Academy and Data Science at Exploire AI.
 - 💞️ I’m looking to collaborate on different projects that will help me to equip my skils through solving different problems.
 - 📫 you can contact me by ayenewtsionw@gmail.com
